@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+
+}
+
+.bg-transparente {
+    background-color: transparent;
+    color: #ffff;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.titulo {
+    text-align: center;
+    margin: 40px;
+}
+
+
+
+.icono {
+    background: #2A9EA8;
+
+}
+
+.texto {
+    text-align: left;
+
+}
+
+.destacar {
+    text-align: center;
+}
+
+#cards {
+    color: white;
+    margin: 80px;
+    
+
+}
+
+.card {
+    background-color: #2A9EA8;
+    display: inline-block;
+    margin: 20px;
+
+
+}
+
+#contacto {
+    text-align: center;
+    margin: 40px;
+}
+
+.formulario {
+    margin: 80px;
+}
+
+
+
+#footer {
+    background: #2A9EA8;
+    color: white;
+}
+
+.iconosfooter {
+    text-align: right;
+
+
+}
+
+.ultimo {
+    padding: 25px;
+}
